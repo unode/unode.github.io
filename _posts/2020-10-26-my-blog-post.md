@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My blog entry"
-date:   2010-10-26 10:00:40
+date:   2020-10-26 10:00:40
 blurb: "Another tday in Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
